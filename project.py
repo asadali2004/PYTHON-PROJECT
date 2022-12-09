@@ -29,3 +29,4 @@ while player == False:
 
     player = False
     computer = play[random.randint(0, 2)]
+    print("Thank for play")
